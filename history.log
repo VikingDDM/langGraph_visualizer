@@ -92,3 +92,4 @@ History start
 2016-04-18T15:25:11 - Minor cleanup
 2016-04-18T17:02:58 - Fix bug in logic
 2016-04-18T09:51:11 - Add tests
+2016-04-20T17:23:02 - Remove unused code
