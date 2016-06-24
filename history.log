@@ -221,3 +221,4 @@ History start
 2016-06-13T12:42:56 - Add tests
 2016-06-24T15:28:28 - Remove unused code
 2016-06-24T17:10:54 - Initial setup
+2016-06-24T12:05:52 - Fix bug in logic
