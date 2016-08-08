@@ -326,3 +326,4 @@ History start
 2016-08-02T09:18:06 - Update documentation
 2016-08-08T11:08:25 - Add tests
 2016-08-08T13:06:35 - Improve performance
+2016-08-08T14:39:15 - Remove unused code
