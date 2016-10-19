@@ -508,3 +508,4 @@ History start
 2016-10-18T09:09:50 - Fix bug in logic
 2016-10-18T16:11:28 - Minor cleanup
 2016-10-18T18:32:37 - Add tests
+2016-10-18T18:00:33 - Remove unused code
