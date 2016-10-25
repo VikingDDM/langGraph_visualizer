@@ -520,3 +520,4 @@ History start
 2016-10-28T13:51:33 - Fix bug in logic
 2016-10-28T11:21:25 - Update documentation
 2016-10-25T18:39:09 - Remove unused code
+2016-10-25T12:10:52 - Add tests
